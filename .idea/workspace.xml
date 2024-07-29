@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbaba06-a49b-4462-9140-0248dc890e5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjercicioSemana3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consulta_Clientes.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consulta_Clientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/dbsemana3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1722007695818</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se realiza creación de ejercicio Semana 3, se probó con base de dato localmente.">
+      <created>1722269533029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722269533029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se realiza creación de ejercicio Semana 3, se probó con base de dato localmente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se realiza creación de ejercicio Semana 3, se probó con base de dato localmente." />
   </component>
 </project>
